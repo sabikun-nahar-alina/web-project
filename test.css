@@ -1,0 +1,153 @@
+body{
+  background-color: #111;
+  color: #fff;
+}
+
+
+.bg-color{
+  background-color: #111;
+
+}
+
+.menu-item h3 {
+  margin-top: 15px;
+}
+
+  .menu-item {
+    background: #111;
+    transition: transform 0.3s ease;
+    text-align: center;
+  }
+  
+  .menu-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .menu-item img {
+    width: 60%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .appe{
+    margin-top: 80px;
+  }
+  
+  .height{
+    height: 370px !important;
+  }
+  h2 {
+    margin: 15px 0;
+    font-size: 1.5em;
+  }
+  
+  .btn2 {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: black;
+    background-color:rgb(180, 236, 51);
+    font-weight:bold ;
+  }
+  
+
+  .side-image{
+    margin-left: -110px;
+    margin-top: -60px;
+  }
+
+.mid{
+  height: 550px !important;
+  width: 500px;
+}
+
+.side-image1{
+  margin-bottom: -28px;
+ margin-left: -62px;
+}
+
+.special-dish h1 {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: greenyellow;
+}
+
+.image{
+  height: 730px;
+  width: 700px !important;
+  margin-left: 20px !important;
+}
+
+.text{
+  margin-top: 170px !important ;
+  margin-left: 70px !important;
+}
+
+.menu-item h5 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.menu img{
+  width: 270px ;
+  height: 400px   ;
+  border-radius: 8px;
+}
+
+.last{
+    background-image: url(img/vegetables-set-left-black-slate.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+}
+
+.every h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+}
+
+.font{
+  font-family: Arial, Helvetica, sans-serif;
+  color: greenyellow;
+}
+.button{
+  display: flex;
+  justify-content: space-around;
+}
+
+.cta-button {
+  background: rgba(180, 236, 51, 0.568);
+  padding: 10px 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.hero {
+  background-image: url('img/Moataz-Mohamed_01.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.hero h1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif!important;
+font-weight: bold;
+
+}
+.nav{
+  background-color: black;
+}
+.grilli{
+  color:greenyellow !important;
+}
+
